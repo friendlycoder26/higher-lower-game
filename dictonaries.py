@@ -18,7 +18,7 @@ data = [
     {"name": "Emma Watson", "followers": 75, "description": "Actress"},
     {"name": "Shah Rukh Khan", "followers": 47, "description": "Actor"},
     {"name": "Deepika Padukone", "followers": 77, "description": "Actress"},
-    {"name": "Billie Eilish", "followers": 113, "description": "Singer"}
+    {"name": "Billie Eilish", "followers": 113, "description": "Singer."}
 ]
 
 menu = {
@@ -52,3 +52,4 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
+
